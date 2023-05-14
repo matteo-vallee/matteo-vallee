@@ -19,7 +19,7 @@ Actuellement étudiant à l'école la plateforme je suis en formation pour deven
 <br/>
  
 ## Projet 
-<img align="left"  src="![image 1 git](https://github.com/matteo-vallee/matteo-vallee/assets/114386460/b1c79f52-839e-4a5b-b409-8eef1526ffbb)" />
+<img align="left"  src="https://github.com/matteo-vallee/matteo-vallee/assets/114386460/b1c79f52-839e-4a5b-b409-8eef1526ffbb" />
 
 
 ## A Suivre
